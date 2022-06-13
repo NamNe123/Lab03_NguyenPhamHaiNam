@@ -333,3 +333,4 @@ C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.csproj.CoreCo
 C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.csproj.CopyComplete
 C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.dll
 C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.pdb
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.Migrations.AddNameColumnToApplicationUser.resources
