@@ -334,3 +334,11 @@ C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.csproj.CopyCo
 C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.dll
 C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.pdb
 C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.Migrations.AddAttendance.resources
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\bin\System.Net.Http.Formatting.dll
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\bin\System.Web.Http.dll
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\bin\System.Web.Http.WebHost.dll
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\bin\System.Net.Http.Formatting.xml
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\bin\System.Web.Http.xml
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\bin\System.Web.Http.WebHost.xml
+C:\Users\NamDZ\Desktop\Lab3_NguyenPhamHaiNam\Lab3_\obj\Debug\Lab3_.Migrations.AddFollowingsTable.resources
